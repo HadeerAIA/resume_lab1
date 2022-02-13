@@ -1,0 +1,22 @@
+.cover{
+    width: 100%;
+    height: 600px;
+    background-image: url('../../../public/img/busy-employer.jpg');
+    background-size: cover;
+} 
+.bottun{
+    color: rgb(38, 24, 71);
+    text-align: center;
+    position: relative;
+    top: 12em;
+    height: 140px;
+    padding: 1em;
+}
+.bottun>button{
+    margin-top: 10px;
+}
+.bottun>h1{
+    font-size: 4em;
+    background-color: #fff;
+    opacity: 0.7;
+}
